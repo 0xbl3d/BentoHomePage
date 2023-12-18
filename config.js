@@ -161,8 +161,8 @@ const CONFIG = {
 			id: '2',
 			links: [
 				{
-					name: 'Linkedin',
-					link: 'https://www.linkedin.com',
+					name: 'Discord',
+					link: 'https://www.discord.com/app',
 				},
 				{
 					name: 'Hashnode',
