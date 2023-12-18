@@ -11,7 +11,7 @@ const CONFIG = {
 	// └─┘┴ ┴└─┘┴└─┘└─┘
 
 	// General
-	name: 'Rei',
+	name: 'classid',
 	imageBackground: false,
 	openInNewTab: true,
 	twelveHourFormat: false,
